@@ -1,0 +1,16 @@
+{
+  "version": "0.2.1",
+  "defaults": {},
+  "configurations": [
+    {
+      "type": "nodejs",
+      "project": "1\\index.js",
+      "name": "index.js"
+    },
+    {
+      "type": "native",
+      "name": "G:\\WWW\\es6",
+      "project": ""
+    }
+  ]
+}
